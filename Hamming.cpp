@@ -1,3 +1,5 @@
+//Sum of pairwise Hamming Distance
+
 int Solution::hammingDistance(const vector<int> &A) {
     int result = 0;
     
